@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP LLMs.txt Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-llms-generator\n"
+"POT-Creation-Date: 2024-01-01T00:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-01T00:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: wp-llms-generator\n"
+
+msgid "LLMs.txt Generator"
+msgstr "LLMs.txt Oluşturucu"
+
+msgid "İçerik Türü Ayarları"
+msgstr "İçerik Türü Ayarları"
+
+msgid "LLMs.txt dosyasına dahil edilecek içerik türlerini seçin:"
+msgstr "LLMs.txt dosyasına dahil edilecek içerik türlerini seçin:"
+
+msgid "Yazılar"
+msgstr "Yazılar"
+
+msgid "Sayfalar"
+msgstr "Sayfalar"
+
+msgid "Ürünler"
+msgstr "Ürünler"
+
+msgid "Medya"
+msgstr "Medya"
+
+msgid "Ayarları Kaydet"
+msgstr "Ayarları Kaydet"
+
+msgid "LLMs.txt Dosyası Oluştur"
+msgstr "LLMs.txt Dosyası Oluştur"
+
+msgid "LLMs.txt Oluştur"
+msgstr "LLMs.txt Oluştur"
+
+msgid "Güvenlik doğrulaması başarısız oldu."
+msgstr "Güvenlik doğrulaması başarısız oldu."
+
+msgid "Bu işlemi gerçekleştirmek için yetkiniz yok."
+msgstr "Bu işlemi gerçekleştirmek için yetkiniz yok."
+
+msgid "LLMs.txt dosyası başarıyla oluşturuldu: %s"
+msgstr "LLMs.txt dosyası başarıyla oluşturuldu: %s"
+
+msgid "LLMs.txt dosyası oluşturulurken bir hata oluştu."
+msgstr "LLMs.txt dosyası oluşturulurken bir hata oluştu." 
