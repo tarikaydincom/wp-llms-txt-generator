@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WP LLMs.txt Generator
- * Plugin URI: https://github.com/yourusername/wp-llms-generator
+ * Plugin URI: https://github.com/tarikaydincom/wp-llms-txt-generator/
  * Description: WordPress siteler için LLMs.txt dosyası oluşturucu. İçerik türlerini seçerek özelleştirilebilir.
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author: Tarık Aydın
+ * Author URI: https://tarikaydin.comm
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: wp-llms-generator
